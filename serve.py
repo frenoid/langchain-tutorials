@@ -1,3 +1,9 @@
+#!/bin/python
+
+# Serves LangChain Server on http://localhost:5001/chain
+# UI is available at http://192.168.3.201:5001/chain/playground/
+# API docs at: http://192.168.3.201:5001/docs
+
 import os
 from typing import List
 
